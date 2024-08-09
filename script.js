@@ -1,3 +1,12 @@
+document.body.style.backgroundColor = "#f8f9fa";
+const div = querySelector(".custom_container");
+
+// if (div) {
+//     div.style.backgroundColor = "#f8f9fa";
+//     div.style.borderColor = "#ced4da";
+//     div.style.color = "#495057";
+// }
+
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("registrationForm");
 
