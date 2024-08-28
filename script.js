@@ -1,5 +1,5 @@
 document.body.style.backgroundColor = "#f8f9fa";
-const div = querySelector(".custom_container");
+const div = document.querySelector(".custom_container");
 
 // if (div) {
 //     div.style.backgroundColor = "#f8f9fa";
